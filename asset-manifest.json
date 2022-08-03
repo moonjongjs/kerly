@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kerly/static/css/main.76d1a6eb.css",
+    "main.js": "/kerly/static/js/main.434d2836.js",
+    "index.html": "/kerly/index.html",
+    "main.76d1a6eb.css.map": "/kerly/static/css/main.76d1a6eb.css.map",
+    "main.434d2836.js.map": "/kerly/static/js/main.434d2836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d1a6eb.css",
+    "static/js/main.434d2836.js"
+  ]
+}
